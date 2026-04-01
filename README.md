@@ -1,4 +1,3 @@
-Hello. I am Parker and I am a self-tought HS programmer.
-I have experience in Java, Python, and shell scripts, and I am currently learning C/C++, Rust, and Swift.
-I usually code instead of doing my schoolwork because my english and politics classes are boring, and I 
-love procrastination on my physics, calculus, and computer science classes.
+My name is Parker, and I'm a self taught HS programmer.
+I use projects to teach myself Python, Java, C/C++, Bash, and Rust.
+I'm really busy with my current studies so most of the stuff I have on here is random and for fun.
